@@ -1,0 +1,6 @@
+# ignore merged.json
+merged.json
+
+# ignore individual weight jsons
+weight-jsons/*
+!weight-jsons/.gitkeep
